@@ -1,0 +1,5 @@
+{
+  "name": "IurisData - Gestión de Casos Legales",
+  "description": "Una base de datos robusta e intuitiva para el registro, gestión y exportación de casos legales con soporte para copias de seguridad y análisis por IA.",
+  "requestFramePermissions": []
+}
